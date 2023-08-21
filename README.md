@@ -1,4 +1,4 @@
-# jogodeNave
+# jogo de Nave
 <p>Mais um desafio da Dio Innovantion</p>
 <p>Utilizando html, css e javascript, um desafio com varias funções e alinhando com sons e imagem trazendo efeitos e animações para jogo simples de naves.</p>
 <p>Contribuindo com botões de iniciar, reiniciar e com 2 foto das naves helicóptero dando um efeito de a luz clareando a nave.</p>
